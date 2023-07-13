@@ -1,0 +1,15 @@
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\bin\Debug\net6.0\ATM_Rebuild.exe
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\bin\Debug\net6.0\ATM_Rebuild.deps.json
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\bin\Debug\net6.0\ATM_Rebuild.runtimeconfig.json
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\bin\Debug\net6.0\ATM_Rebuild.dll
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\bin\Debug\net6.0\ATM_Rebuild.pdb
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.csproj.AssemblyReference.cache
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.AssemblyInfoInputs.cache
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.AssemblyInfo.cs
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.csproj.CoreCompileInputs.cache
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.dll
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\refint\ATM_Rebuild.dll
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.pdb
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ATM_Rebuild.genruntimeconfig.cache
+C:\Users\wynnb\source\repos\ATM_Rebuild\ATM_Rebuild\obj\Debug\net6.0\ref\ATM_Rebuild.dll
